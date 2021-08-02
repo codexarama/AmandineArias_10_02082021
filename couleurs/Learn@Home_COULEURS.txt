@@ -1,0 +1,5 @@
+rouge	#F45B69
+violet	#56144C
+celadon #AFDAD1
+vert	#D9D34E
+bleu	#1D6A8C
