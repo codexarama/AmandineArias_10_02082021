@@ -1,4 +1,3 @@
-# AmandineArias_10_02082021
 # Learn@Home
 
 (projet fictif de formation)
@@ -21,9 +20,9 @@ Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
 ## LIVRABLES
 
-- [x] fiches de fonctionnalités (use cases)
-- [x] scénarii utilisateurs (user stories)
-- [x] maquettes UI/UX desktop + mobile
+- fiches de fonctionnalités (use cases)
+- scénarii utilisateurs (user stories)
+- maquettes UI/UX desktop + mobile
 
 ## COMPETENCES DEVELOPPEES
 
