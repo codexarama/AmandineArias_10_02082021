@@ -34,5 +34,5 @@ Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
 ## RESSOURCES FOURNIES
 
-- brief client (besoins)
+- notes de réunion (besoins)
 - logo Learn@Home (association)
