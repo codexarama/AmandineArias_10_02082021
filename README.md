@@ -21,16 +21,16 @@ Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
 ## LIVRABLES
 
--[x] fiches de fonctionnalités (use cases)
--[x] scénarii utilisateurs (user stories)
--[x] maquettes UI/UX desktop + mobile
+- [x] fiches de fonctionnalités (use cases)
+- [x] scénarii utilisateurs (user stories)
+- [x] maquettes UI/UX desktop + mobile
 
 ## COMPETENCES DEVELOPPEES
 
--[x] Contribuer à un projet en utilisant une méthodologie agile
--[x] Identifier les besoins de l'application à partir d'un cahier des charges
--[x] Modéliser une solution technique pour un client
--[x] Créer une maquette pour un client
+- [x] Contribuer à un projet en utilisant une méthodologie agile
+- [x] Identifier les besoins de l'application à partir d'un cahier des charges
+- [x] Modéliser une solution technique pour un client
+- [x] Créer une maquette pour un client
 
 ## RESSOURCES FOURNIES
 
