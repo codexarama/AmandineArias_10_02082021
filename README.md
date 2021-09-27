@@ -2,7 +2,11 @@
 
 (projet fictif de formation)
 
-## CONTEXTE
+## PROBLEMATIQUE
+
+> Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. L'Objectif est de concevoir une application de soutien scolaire à distance, notamment dotée d'une messagerie intégrée pour faciliter la communication entre les membres
+
+## MAQUETTAGE
 
 Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
@@ -13,10 +17,6 @@ Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 - gestion de l'agenda
 - gestion des tâches
 - messsagerie
-
-## PROBLEMATIQUE
-
-> Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. L'Objectif est de concevoir une application de soutien scolaire à distance, notamment dotée d'une messagerie intégrée pour faciliter la communication entre les membres
 
 ## LIVRABLES
 
@@ -33,5 +33,5 @@ Application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
 ## RESSOURCES FOURNIES
 
-- notes de réunion (besoins)
+- [notes de réunion (besoins)](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
 - logo Learn@Home (association)
