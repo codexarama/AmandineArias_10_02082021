@@ -1,6 +1,6 @@
 # Learn@Home
 
-(projet fictif de formation n°07/11 avec OpenClassrooms)
+    Projet fictif de formation n°07/11 | OpenClassrooms
 
 > PROBLEMATIQUE
 
