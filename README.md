@@ -2,6 +2,10 @@
 
     Projet fictif de formation n°07/11 | OpenClassrooms
 
+**Maquette Desktop & Mobile**
+
+<kbd>![maquette](./Learn@Home.png)</kbd>
+
 > PROBLEMATIQUE
 
 Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. L'Objectif est de concevoir une application de soutien scolaire à distance, notamment dotée d'une messagerie intégrée pour faciliter la communication entre les membres
